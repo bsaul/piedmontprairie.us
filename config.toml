@@ -1,5 +1,5 @@
 theme = "plant-community"
-baseURL = "http://example.org/"
+baseURL = "http://piedmontprairie.netlify.app"
 languageCode = "en-us"
 title = "Piedmont Prairie"
 
