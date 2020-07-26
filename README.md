@@ -5,3 +5,7 @@ Piedmontprairie.us
 
 This will be a website documenting the botanical diversity and history the Piedmont prairie.
 
+Technology stack
+----------------
+
+The website is built using [HUGO](https://gohugo.io/) on [netlify.com](https://www.netlify.com/). The site design is based on the [ananke](https://gohugo-ananke-theme-demo.netlify.app/) theme.
