@@ -3,7 +3,7 @@
 Piedmontprairie.us
 ------------------
 
-This will be a website documenting the botanical diversity and history the Piedmont prairie.
+[Piedmontprairie.us](https://piedmontprairie.netlify.app/) documents the botanical diversity and history the Piedmont prairie. The site was created by [Bradley Saul](http://bradleysaul.us) as the final project for a [Certificate in Native Plant Studies](https://ncbg.unc.edu/learn/adult-programs/native-plant-studies/). Many thanks to [Julie Tuttle](https://www.researchgate.net/profile/Julie_Tuttle2) for advising this project!
 
 Contribute
 ----------
