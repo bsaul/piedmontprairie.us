@@ -1,6 +1,9 @@
 ---
-featured_image: "images/Quercus-marilandica-0.jpg"
+featured_image: ""
 title: Get involved
+menu:
+  main:
+    weight: 5
 ---
 
 

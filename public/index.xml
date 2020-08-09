@@ -10,5 +10,43 @@
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Bibliography</title>
+      <link>/bibliography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bibliography/</guid>
+      <description>  Tompkins, Robert D., Catherine M. Luckenbaugh, William C. Stringer, Keith H. Richardson, Elena A. Mikhailova, and William C. Bridges Jr. 2010. “Suther Prairie: Vascular Flora, Species Richness, and Edaphic Factors.” Castanea.
+ Turk, Joseph. 2015. “Assessing the Costs and Benefits of Native Plant Species for Electric Transmission Line Right-of-Way Revegetation Within the Tennessee Valley Authority Power Service Area.” Master’s thesis, University of Tennessee at Chattanooga.
+  </description>
+    </item>
+    
+    <item>
+      <title>Get involved</title>
+      <link>/get-involved/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/get-involved/</guid>
+      <description>iNaturalist Projects  North Carolina Piedmont Roadside Native Plants Southern Piedmont Pine-Oak Savannas  </description>
+    </item>
+    
+    <item>
+      <title>Map</title>
+      <link>/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/map/</guid>
+      <description>Insert the map</description>
+    </item>
+    
+    <item>
+      <title>Parthenium integrifolium</title>
+      <link>/plants/parthenium_integrifolium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/plants/parthenium_integrifolium/</guid>
+      <description>Here&amp;rsquo;s some text.</description>
+    </item>
+    
   </channel>
 </rss>
