@@ -5,9 +5,12 @@ weight: 4
 menu:
   main:
     weight: 20
-nocite: | 
-  @tompkins2010suther, @turk2015assessing
-bibliography: bib_piedmontprairie.bib
 ---
 
+* [Download the bibliography](../piedmontprairie.bib)
+* [Make a suggestion](https://github.com/bsaul/piedmontprairie.us/issues/new?assignees=&labels=enhancement&template=bibliography-suggestion.md&title=)
 
+
+```{r, echo = FALSE, results="asis"}
+sort(bibtex::read.bib("piedmontprairie.bib"))
+```
