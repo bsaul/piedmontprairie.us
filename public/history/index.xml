@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Natural History on Piedmont Prairie</title>
+    <title>Histories on Piedmont Prairie</title>
     <link>/history/</link>
-    <description>Recent content in Natural History on Piedmont Prairie</description>
+    <description>Recent content in Histories on Piedmont Prairie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="/history/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Natural History</title>
+      <link>/history/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/history/history/</guid>
+      <description>Let me introduce the Natural History of the Piedmont Prairie with a bit of personal history. My interest in the flora of the Piedmont Prairie began with my childhood awe of fauna. To this day, I remember seeing bison at Charles Towne Landing during an elementary school field trip and learning that early European colonists may have encountered these massive herbivores. The thought of bison wandering through the same Loblolly pine and Oak-Hickory forests that I wandered through lit this young boy’s imagination.</description>
+    </item>
     
   </channel>
 </rss>

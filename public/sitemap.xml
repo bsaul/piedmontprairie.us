@@ -3,12 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/history/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/plants/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -40,6 +34,12 @@
   
   <url>
     <loc>/map/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/history/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
