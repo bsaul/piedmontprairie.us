@@ -19,25 +19,34 @@ Historical evidence suggests American Bison ranged widely across the Southeast d
 
 The US Environmental Protection Agency defines the [Piedmont Eco-region](https://www.epa.gov/eco-research/ecoregions-north-america) as extending from near Montogomery, AL northeastward across Georgia, the Carolinas, and Virginia to Washington, DC. The eastern border of the region is the [Atlantic Seaboard Fall Line](https://en.wikipedia.org/wiki/Atlantic_Seaboard_Fall_Line). To the West, the Appalachian Mountains rise out of the Piedmont's rolling hills.
 
-The precise extent of prairie-like habitat prior to European settlement is unknown, but sample historical evidence suggests open habitat was common. In a seminal monograph on the  historical of vegetation in the Southeast, @rostlund1957myth writes:
+The extent of prairie-like habitat prior to European settlement is unknown, but sample historical evidence suggests open habitat was common. In a seminal monograph on the  historical of vegetation in the Southeast, @rostlund1957myth writes:
 
 > On a vegetation map of the ancient Southeast, if such a map could be constructed from the early records, there would be some areas in dark green color to show the dense and mature forests, other areas in light green to represent the open woodlands, and the map would be liberally flecked with yellow to indicate the scattered tracts of open country. 
 
+These yellow flecks would be Piedmont prairie.
+
 # Factors that created prairie-like habitat
 
-## Edaphic 
+Five factors contributed to the formation and maintenance of open habitat in the Piedmont: soils, climate, fire, herbivores, and land-use practices. These are briefly described here, and the relative contribution of each factor to sustain prairie habitat probably varied greatly depending on the specific region and the vegetation community.
 
-## Land use practices Indigenous cultures
+## Soils 
+
+@noss2012forgotten details many endemic plants and plant communities in the Southeast that survive in large part due to the specific soil characteristics where they are found.
+
+## Climate
 
 ## Fire
 
 ## Herbivores
 
+## Land use practices Indigenous cultures
 
+The Piedmont region was a long-thriving center of human activity prior to European settlement. An extensive trade network existed. Large cities 
 
 
 # Biodiversity
 
+* Diversity of sun-loving plants
 * endangered species
    * sunflower
 
