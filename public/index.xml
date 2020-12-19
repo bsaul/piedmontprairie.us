@@ -2,49 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coming soon on Piedmont Prairie</title>
-    <link>/</link>
+    <link>http://piedmontprairie.netlify.app/</link>
     <description>Recent content in Coming soon on Piedmont Prairie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 19 Dec 2020 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://piedmontprairie.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bibliography</title>
-      <link>/bibliography/</link>
+      <link>http://piedmontprairie.netlify.app/bibliography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bibliography/</guid>
+      <guid>http://piedmontprairie.netlify.app/bibliography/</guid>
       <description>Download the bibliography Make a suggestion  Adams N (2012). A Synthesis of Rights-of-Way Native Plant Communities: Identifying their Relevance to Historical and Contemporary Piedmont Savannas. Master’s thesis, University of North Carolina Chapel Hill. doi: 10.17615/95cd-wc51 (URL: https://doi.org/10.17615/95cd-wc51).
 Askins R (2001). “Sustaining Biological Diversity in Early Successional Communities: The Challenge of Managing Unpopular Habitats.” Wildlife Society Bulletin, 29(2). &amp;lt;URL: http://www.jstor.org/stable/3784165&amp;gt;.
 Barden LS (1997). “Historic prairies in the Piedmont of North and South Carolina, USA.</description>
     </item>
     
     <item>
+      <title>Prairie Pockets</title>
+      <link>http://piedmontprairie.netlify.app/post/20201219-duke-prairie-pockets/</link>
+      <pubDate>Sat, 19 Dec 2020 12:24:00 -0400</pubDate>
+      
+      <guid>http://piedmontprairie.netlify.app/post/20201219-duke-prairie-pockets/</guid>
+      <description>  Love this from @DukeGardens. Let&amp;#39;s turn more medians into pocket prairies full of native plants! 😍🌾🌻 https://t.co/vopsfWT5Ix
+&amp;mdash; NC Botanical Garden (@NCBotGarden) December 16, 2020  Following the success of Sarah P. Duke Gardens’ Piedmont Prairie in the Blomquist Garden, the horticulture staff is experimenting with “prairie pockets” in parking lot medians. The results look great so far!
+  </description>
+    </item>
+    
+    <item>
       <title>Get involved</title>
-      <link>/get-involved/</link>
+      <link>http://piedmontprairie.netlify.app/get-involved/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/get-involved/</guid>
+      <guid>http://piedmontprairie.netlify.app/get-involved/</guid>
       <description>Community Science Projects  North Carolina Piedmont Roadside Native Plants Southern Piedmont Pine-Oak Savannas  Restoration Projects and Guides  McDowell Nature Center and Preserve: &amp;ldquo;The piedmont prairie restoration area of the preserve provides habitat for a federally endangered plant: Schweinitz&amp;rsquo;s sunflower, a federal candidate species: Georgia aster, and one rare plant: prairie dock.&amp;rdquo; How to restore a native grass meadow: Horton Grove Nature Preserve Success Story  </description>
     </item>
     
     <item>
-      <title>Map</title>
-      <link>/map/</link>
+      <title>Natural History</title>
+      <link>http://piedmontprairie.netlify.app/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/map/</guid>
-      <description>Insert the map</description>
+      <guid>http://piedmontprairie.netlify.app/history/</guid>
+      <description>Let me introduce the Natural History of the Piedmont Prairie with a bit of personal history. My interest in the flora of the Piedmont Prairie began with a childhood awe of fauna. To this day, I remember seeing bison at Charles Towne Landing during an elementary school field trip and learning that early European colonists may have encountered these massive herbivores. The thought of bison wandering through the same Loblolly pine and Oak-Hickory forests that I wandered through lit this young boy’s imagination.</description>
+    </item>
+    
+    <item>
+      <title>Natural History</title>
+      <link>http://piedmontprairie.netlify.app/natural-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://piedmontprairie.netlify.app/natural-history/</guid>
+      <description>Historical evidence suggests American Bison ranged widely across the Southeast during at least the 16th and 17th centuries (Rostlund 1960). To have been successful, bison would have needed large tracts of open, grassy areas. Despite the myth that a squirrel could cross the Piedmont from mountains to the coastal plain across a sea of trees and academic literature that refers to the pre-colonial Piedmont region as “Southern Forest” (e.</description>
     </item>
     
     <item>
       <title>Parthenium integrifolium</title>
-      <link>/plants/parthenium_integrifolium/</link>
+      <link>http://piedmontprairie.netlify.app/plants/parthenium_integrifolium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/plants/parthenium_integrifolium/</guid>
+      <guid>http://piedmontprairie.netlify.app/plants/parthenium_integrifolium/</guid>
       <description>Here&amp;rsquo;s some text.</description>
     </item>
     

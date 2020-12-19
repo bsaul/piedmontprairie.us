@@ -1,0 +1,79 @@
+---
+featured_image: "images/Quercus-marilandica-0.jpg"
+title: 'Natural History'
+bibliography: naturalhistory.bib
+author: Bradley Saul
+#omit_header_text: true
+menu:
+  main:
+    weight: 1
+---
+
+
+
+<a title="Cephas, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bison_original_range_map.svg"><img width="512" alt="Bison original range map" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bison_original_range_map.svg/512px-Bison_original_range_map.svg.png"></a>
+
+Historical evidence suggests American Bison ranged widely across the Southeast during at least the 16th and 17th centuries [@rostlund1960the-geographic]. To have been successful, bison would have needed large tracts of open, grassy areas. Despite the myth that [a squirrel could cross the Piedmont from mountains to the coastal plain across a sea of trees](https://www.youtube.com/watch?v=rXJmR1GjE50) and academic literature that refers to the pre-colonial Piedmont region as "Southern Forest" [e.g., @sanderson2008the-ecological], a more accurate [biogeographic](https://en.wikipedia.org/wiki/Biogeography) historical depiction of the [Piedmont region](https://uncpress.org/book/9780807846711/field-guide-to-the-piedmont/) is a mosaic of many habitats including forests, savannas, and what we now call the *Piedmont Prairie*.
+
+# Prairie Extent
+
+The US Environmental Protection Agency defines the [Piedmont Eco-region](https://www.epa.gov/eco-research/ecoregions-north-america) as extending from near Montogomery, AL northeastward across Georgia, the Carolinas, and Virginia to Washington, DC. The eastern border of the region is the [Atlantic Seaboard Fall Line](https://en.wikipedia.org/wiki/Atlantic_Seaboard_Fall_Line). To the West, the Appalachian Mountains rise out of the Piedmont's rolling hills.
+
+The extent of prairie-like habitat prior to European settlement is unknown, but sample historical evidence suggests open habitat was common. In a seminal monograph on the  historical of vegetation in the Southeast, @rostlund1957myth writes:
+
+> On a vegetation map of the ancient Southeast, if such a map could be constructed from the early records, there would be some areas in dark green color to show the dense and mature forests, other areas in light green to represent the open woodlands, and the map would be liberally flecked with yellow to indicate the scattered tracts of open country. 
+
+These yellow flecks would be Piedmont prairie.
+
+# Factors that created prairie-like habitat
+
+Five factors contributed to the formation and maintenance of open habitat in the Piedmont: soils, climate, fire, herbivores, and land-use practices. These are briefly described here, and the relative contribution of each factor to sustain prairie habitat probably varied greatly depending on the specific region and the vegetation community.
+
+## Soils 
+
+@noss2012forgotten details many endemic plants and plant communities in the Southeast that survive in large part due to the specific soil characteristics where they are found.
+
+## Climate
+
+## Fire
+
+## Herbivores
+
+## Land use practices Indigenous cultures
+
+The Piedmont region was a long-thriving center of human activity prior to European settlement. An extensive trade network existed. Large cities 
+
+
+# Biodiversity
+
+* Diversity of sun-loving plants
+* endangered species
+   * sunflower
+
+
+
+# Where is the prairie now?
+
+The Piedmont region is notably developed:
+
+* development
+* population
+* fragmentation
+
+
+## Roadsides & Rights-of-Way
+
+## Conservation of the piedmont prairie
+
+```{r echo = FALSE}
+blogdown::shortcode("youtube", "xvsbhaJUwew")
+```
+
+* Importance of early successional habitat.
+* Southeastern Grasslands Initiative
+
+# Climate Change and Grasslands
+
+@dass2018grasslands
+
+# References
