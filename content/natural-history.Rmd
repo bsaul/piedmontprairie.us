@@ -9,7 +9,7 @@ menu:
     weight: 1
 ---
 
-Let me introduce the Natural History of the Piedmont Prairie with a bit of personal history. My interest in the flora of the Piedmont Prairie began with a childhood awe of fauna. To this day, I remember seeing bison at [Charles Towne Landing]([https://southcarolinaparks.com/see-and-do/wildlife/the-animal-forest-at-charles-towne-landing]) during an elementary school field trip and learning that early European colonists may have encountered these massive herbivores. The thought of bison wandering through the same Loblolly pine and Oak-Hickory forests that I wandered through lit this young boy's imagination.
+
 
 <a title="Cephas, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bison_original_range_map.svg"><img width="512" alt="Bison original range map" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bison_original_range_map.svg/512px-Bison_original_range_map.svg.png"></a>
 

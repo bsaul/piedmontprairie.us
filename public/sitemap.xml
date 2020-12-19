@@ -3,55 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/plants/</loc>
+    <loc>http://piedmontprairie.netlify.app/plants/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/bibliography/</loc>
+    <loc>http://piedmontprairie.netlify.app/post/</loc>
+    <lastmod>2020-12-19T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://piedmontprairie.netlify.app/bibliography/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://piedmontprairie.netlify.app/</loc>
+    <lastmod>2020-12-19T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/get-involved/</loc>
+    <loc>http://piedmontprairie.netlify.app/post/20201219-duke-prairie-pockets/</loc>
+    <lastmod>2020-12-19T12:24:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/map/</loc>
+    <loc>http://piedmontprairie.netlify.app/tags/prairie-sites/</loc>
+    <lastmod>2020-12-19T12:24:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/history/</loc>
+    <loc>http://piedmontprairie.netlify.app/tags/restoration/</loc>
+    <lastmod>2020-12-19T12:24:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/plants/parthenium_integrifolium/</loc>
+    <loc>http://piedmontprairie.netlify.app/tags/</loc>
+    <lastmod>2020-12-19T12:24:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://piedmontprairie.netlify.app/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.netlify.app/get-involved/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.netlify.app/history/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.netlify.app/natural-history/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.netlify.app/plants/parthenium_integrifolium/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

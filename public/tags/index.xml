@@ -2,13 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Piedmont Prairie</title>
-    <link>/tags/</link>
+    <link>http://piedmontprairie.netlify.app/tags/</link>
     <description>Recent content in Tags on Piedmont Prairie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 19 Dec 2020 12:24:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://piedmontprairie.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>prairie-sites</title>
+      <link>http://piedmontprairie.netlify.app/tags/prairie-sites/</link>
+      <pubDate>Sat, 19 Dec 2020 12:24:00 -0400</pubDate>
+      
+      <guid>http://piedmontprairie.netlify.app/tags/prairie-sites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>restoration</title>
+      <link>http://piedmontprairie.netlify.app/tags/restoration/</link>
+      <pubDate>Sat, 19 Dec 2020 12:24:00 -0400</pubDate>
+      
+      <guid>http://piedmontprairie.netlify.app/tags/restoration/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
