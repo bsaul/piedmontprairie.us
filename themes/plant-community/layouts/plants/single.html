@@ -1,0 +1,35 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <header>
+        <!--
+        <p class="f6 b helvetica tracked">
+          {{ humanize .Section | upper  }}
+        </p>
+        -->
+        <h1 class="scientific_name">
+          {{ $.Param "names.scientific" }}
+        </h1>
+        <h2 class="common_name">
+          {{ $.Param "names.common" }}
+        </h2>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        {{ $.Param "description" }}
+      </div>
+      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        {{ partial "plant-images.html" .Params.images }}
+      </div>
+      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        {{ partial "plant-map.html" .Params.names }}
+      </div>
+      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        {{ .Content }}
+      </div>
+      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        {{ partial "plant-links.html" .Params.names}}
+      </div>
+    </article>
+  </div>
+{{ end }}

@@ -1,0 +1,13 @@
+<div class="pr3-ns mb4 mb0-ns w-100 w-50-ns">
+  {{ range . }}
+  <!--{{ $image  :=  printf "%s%s" .Site.Data.images .name }}-->
+  {{ $images := getJSON "content/image-info.json" }}
+  {{ $key := .key }}
+  {{ $desc := .desc}}
+    {{ range $images }}
+      {{ if eq .name $key }}
+         <img src="../../images/{{ .file }}" class="db" alt="Image of {{ $desc }}. Photo by {{ .photographer }} under {{ .license }} license. ">
+      {{ end }}
+    {{ end }}
+  {{end}}
+</div>
