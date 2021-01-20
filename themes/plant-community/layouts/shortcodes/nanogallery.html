@@ -1,0 +1,19 @@
+<!-- Taken from https://howisjt.com/posts/tech-hugo-image-gallery/ -->
+<div id="{{ .Get "gallery" }}" data-nanogallery2='{
+  "itemsBaseURL": "{{ .Get "src" }}",
+  "thumbnailWidth": "auto",
+  "thumbnailBorderVertical": 1,
+  "thumbnailBorderHorizontal": 1,
+  "thumbnailLabel": {
+      "position": "overImageOnBottom",
+      "align": "right"
+    },
+  "thumbnailAlignment": "center",
+  "viewerToolbar": {
+      "standard": "minimizeButton, infoButton, shareButton, downloadButton, 
+                   zoomButton, fullscreenButton",
+      "minimized": "minimizeButton"}
+  }'
+>
+{{ .Inner }}
+</div>
