@@ -19,10 +19,7 @@
         {{ $.Param "description" }}
       </div>
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
-        {{ partial "plant-images.html" .Params.images }}
-      </div>
-      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
-        {{ partial "plant-map.html" .Params.names }}
+        {{ partial "plant-images.html" (dict "image-args" . "name" .Params.names.common "images" .Params.images ) }}
       </div>
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
         {{ .Content }}
