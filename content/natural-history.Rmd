@@ -10,7 +10,7 @@ menu:
     weight: 1
 ---
 
-There's a common myth that colonizers of the Southeastern Piedmont reached a vast, unbroken forest. [Some have claimed](https://www.youtube.com/watch?v=rXJmR1GjE50) that a a squirrel could cross the Piedmont from mountains to the coastal plain across a sea of trees. Even recent academic literature refers to the pre-colonial Piedmont region as "Southern Forest" [e.g., @sanderson2008the-ecological]. In _Field Guide to the Piedmont_, Michael Godfrey [-@godfrey2012field] writes:
+There's a common myth that colonizers of the Southeastern Piedmont reached a vast, unbroken forest. [Some have claimed](https://www.youtube.com/watch?v=rXJmR1GjE50) that a a squirrel could cross the Piedmont from mountains to the coastal plain and "never have seen a flicker of sunshine on the ground" [@adams2012epic as quoted in @brown2000wildland]. Recent academic literature refers to the pre-colonial Piedmont region as "Southern Forest" [e.g., @sanderson2008the-ecological]. Even in _Field Guide to the Piedmont_, author Michael Godfrey [-@godfrey2012field] writes:
 
 > This is what I see in the Piedmont of 300 years ago: the canopy claims the direct sunlight completely by filling every gap with a broad-leaved parasol, cantilevered aloft. No part of the jade awning is within one hundred feet of the ground.
 
@@ -33,21 +33,29 @@ The "yellow flecks" would have been Piedmont prairie.
 
 # Prairie origins
 
-Five factors are thought to have contributed to the formation and maintenance of open habitat in the Piedmont: soil, climate, fire, herbivores, and Native American land-use practices. These are briefly described here, though the relative contribution of each factor to sustain prairie probably varied depended on the specific region and the vegetation community.
+Five factors are thought to have contributed to the formation and maintenance of open habitat in the Piedmont: soil, Native American land-use practices, climate, fire, and large herbivores. These are briefly described here, though the relative contribution of each factor to sustain prairie probably varied depended on the specific region and the vegetation community.
 
 ## Soil
 
 @noss2012forgotten details many endemic plants and plant communities in the Southeast that survive in large part due to the specific soil characteristics where they are found. Indeed, the Southeast is one of the most rich regions in the world in terms of grassland biodiversity. @davis2002vascular associated several prairie remnant sites with characteristic clay soils common in the Piedmont. A dense clayey soil could impede tree root growth, especially during dry summers. 
 
-Whether edaphic (soil) factors maintained open habitat is an open question. Since most of the Piedmont has been plowed in the past 400 years, where we find prairie remnants today may not be representative of the historic habitat. A recent report by the NC Natural Heritage program [@robinson2020piedmont] found "that while edaphic conditions play a role in the distribution of prairie/savanna associated plants, it is the prevention of canopy closure through anthropogenic activity that is most closely associated with the distribution of these plants at the present time."
+The Piedmont does have open habitats such as the [Piedmont Hardpan Forest](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.723218/Piedmont_Hardpan_Woodland_and_Forest) dependent on specific soil types. However, the degree to which edaphic (soil) factors maintained large tracts open habitat historically is an open question. Since most of the Piedmont has been plowed in the past 400 years, where we find prairie remnants today may not be representative of the historic habitat. A recent report by the NC Natural Heritage program [@robinson2020piedmont] found "that while edaphic conditions play a role in the distribution of prairie/savanna associated plants, it is the prevention of canopy closure through anthropogenic activity that is most closely associated with the distribution of these plants at the present time."
+
+## Indigenous Land Use
+
+The Piedmont region was a long-thriving center of human activity prior to European settlement, supporting an extensive trade network and largely agricultural societies. Indeed, @dobbs2009frontier argues that the trade routes left by the indigenous people (after disease had extensively depopulated the Piedmont) set the "initial conditions" upon which early Piedmont settlers built their society.
+
+Early explorers and settlers of the Piedmont describe large open areas maintained by Native Americans. @brown2000wildland cites several historic records of prairie-like regions of the Virginia Piedmont, including one Robert Beverley who described "large Spots of Meadows and Savanna’s, wherein are Hundreds of Acres without any Tree at all; but yield Reeds and Grass of incredible Height."
+
+## Fire
+
+Native Americans used fire as primary means to clear and open areas [@williams2003references]. 
+
+@frost1998presettlement estimated a presettlement fire frequency of every 4-6 years for most of the Piedmont.
 
 ## Climate
 
 * microclimates
-
-## Fire
-
-
 
 ## Herbivores
 
@@ -60,9 +68,7 @@ Historical evidence suggests American Bison (*Bison bison*) ranged widely across
  </figcaption>
 </figure>
 
-## Land use practices Indigenous cultures
 
-The Piedmont region was a long-thriving center of human activity prior to European settlement. An extensive trade network existed. Large cities 
 
 
 # Biodiversity and Conservation
