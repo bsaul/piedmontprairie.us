@@ -33,7 +33,7 @@ The "yellow flecks" would have been Piedmont prairie.
 
 # Prairie origins
 
-Five factors are thought to have contributed to the formation and maintenance of open habitat in the Piedmont: soil, Native American land-use practices, climate, fire, and large herbivores. These are briefly described here, though the relative contribution of each factor to sustain prairie probably varied depended on the specific region and the vegetation community.
+Factors that are thought to have contributed to the formation and maintenance of open habitat in the Piedmont include soil, Native American land-use practices, fire, and large herbivores. These are briefly described here, though the relative contribution of each factor to sustain prairie probably varied depended on the specific region and the vegetation community.
 
 ## Soil
 
@@ -45,21 +45,21 @@ The Piedmont does have open habitats such as the [Piedmont Hardpan Forest](https
 
 The Piedmont region was a long-thriving center of human activity prior to European settlement, supporting an extensive trade network and largely agricultural societies. Indeed, @dobbs2009frontier argues that the trade routes left by the indigenous people (after disease had extensively depopulated the Piedmont) set the "initial conditions" upon which early Piedmont settlers built their society.
 
-Early explorers and settlers of the Piedmont describe large open areas maintained by Native Americans. @brown2000wildland cites several historic records of prairie-like regions of the Virginia Piedmont, including one Robert Beverley who described "large Spots of Meadows and Savanna’s, wherein are Hundreds of Acres without any Tree at all; but yield Reeds and Grass of incredible Height."
+Early explorers and settlers of the Piedmont describe large open areas maintained by Native Americans. @brown2000wildland cites several historic records of prairie-like regions of the Virginia Piedmont, including one Robert Beverley who described "large Spots of Meadows and Savanna’s (*sic*), wherein are Hundreds of Acres without any Tree at all; but yield Reeds and Grass of incredible Height."
 
 ## Fire
 
-Native Americans used fire as primary means to clear and open areas [@williams2003references]. 
+While many of the Piedmont habitat types today do not share the same dependence on fire as the Long Leaf Pine savannas of the Coastal Plain, remnants of fire-adapted habitats such as [Post Oak savannas](https://www.fs.usda.gov/recarea/scnfs/recarea/?recid=47217) and prairies suggest fire was historically an important driver ecological patterns in the Piedmont. Prior to colonization, fires -- both man-made and natural -- occurred regularly in much of North America. @frost1998presettlement estimates a presettlement fire frequency of every 4-6 years for most of the Piedmont. Native Americans used fire as a primary means to clear and open areas [@williams2003references].
 
-@frost1998presettlement estimated a presettlement fire frequency of every 4-6 years for most of the Piedmont.
+Today, conservation-minded property managers use fire as critical tool to maintain Piedmont Prairies. The following short video shows how fire is used at a small Piedmont Prairie patch Sarah P. Duke Gardens in Durham, NC:   
 
-## Climate
+```{r echo = FALSE}
+blogdown::shortcode("youtube", "DQkvMUNZsJk")
+```
 
-* microclimates
+## Herbivory
 
-## Herbivores
-
-Historical evidence suggests American Bison (*Bison bison*) ranged widely across the American Southeast during at least the 16th and 17th centuries [@rostlund1960the-geographic]. To have been successful, bison would have needed large tracts of open, grassy areas. 
+Historical evidence suggests American Bison (*Bison bison*) ranged widely across the American Southeast during at least the 16th and 17th centuries [@rostlund1960the-geographic]. To have been successful, bison would have needed large tracts of open, grassy areas. Bison were a [keystone species](https://en.wikipedia.org/wiki/Keystone_species) in the [Tallgrass prairie](https://en.wikipedia.org/wiki/Tallgrass_prairie) of the midwestern plains; their grazing having had profound effects on the ecosystem [@knapp1999keystone]. 
 
 <figure>
 <a title="Cephas, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bison_original_range_map.svg"><img alt="Bison original range map" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bison_original_range_map.svg/512px-Bison_original_range_map.svg.png"></a>
@@ -68,8 +68,7 @@ Historical evidence suggests American Bison (*Bison bison*) ranged widely across
  </figcaption>
 </figure>
 
-
-
+Were bison a keystone species in the Piedmont, maintaining and expanding prairie habitat? We don't know how long the bison's range extended over the Piedmont. But given the volume of herbaceous plants needed to sustain herds of bison, their effect must have be profound.
 
 # Biodiversity and Conservation
 
