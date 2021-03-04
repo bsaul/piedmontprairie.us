@@ -70,12 +70,16 @@ Historical evidence suggests American Bison (*Bison bison*) ranged widely across
 
 Were bison a keystone species in the Piedmont, maintaining and expanding prairie habitat? We don't know how long the bison's range extended over the Piedmont. But given the volume of herbaceous plants needed to sustain herds of bison, their effect must have be profound.
 
-# Biodiversity and Conservation
+# Biodiversity
 
-* Diversity of sun-loving plants
-* endangered species
+From a distance, grasslands may appear to have little biodiversity since a small number species are often highly abundant. Close inspection tells a different story. In fact, grassland habitats can be among the most biodiverse places on earth [@wilson2012plant; @risser1988diversity]. @tompkins2010suther inventoried over 200 species on a 2.8 hectare site on a Piedmont prairie site.  
+
+* Description of the community
+   * VA Natural Heritage [Piedmont Oak - Hickory Woodlands, Savannas, and Grasslands](https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctd9)
+* endangered and rare species
    * sunflower
-* VA Natural Heritage [Piedmont Oak - Hickory Woodlands, Savannas, and Grasslands](https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctd9)
+   
+# Conservation
 
 The Piedmont region is notably developed:
 
