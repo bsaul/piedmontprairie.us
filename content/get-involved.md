@@ -6,13 +6,26 @@ menu:
     weight: 5
 ---
 
+# Organizations
+
+* [Southeastern Grasslands Initiative](https://www.segrasslands.org/)
+* [Piedmont Prairie Partnership](https://www.segrasslands.org/piedmont)
+* [North Carolina Botanical Gardens](https://ncbg.unc.edu/)
+* [The Clifton Institute](https://cliftoninstitute.org/)
 
 # Community Science Projects
 
 * [North Carolina Piedmont Roadside Native Plants](https://www.inaturalist.org/projects/north-carolina-piedmont-roadside-native-plants)
 * [Southern Piedmont Pine-Oak Savannas](https://www.inaturalist.org/projects/southern-piedmont-pine-oak-savannas)
 
-# Restoration Projects and Guides
+# Restoration and Demonstration Projects
 
-* [McDowell Nature Center and Preserve](https://www.mecknc.gov/ParkandRec/StewardshipServices/NatureCenters/Pages/McDowell.aspx): "The piedmont prairie restoration area of the preserve provides habitat for a federally endangered plant: Schweinitz's sunflower, a federal candidate species: Georgia aster, and one rare plant: prairie dock."
-* [How to restore a native grass meadow](https://www.fws.gov/raleigh/pdfs/NativeGrassFactsheet.pdf): Horton Grove Nature Preserve Success Story 
+* [McDowell Nature Center and Preserve](https://www.mecknc.gov/ParkandRec/StewardshipServices/NatureCenters/Pages/McDowell.aspx) (Charlotte, NC)
+* [Daniel Stowe Botanical Gardens](https://www.dsbg.org/visit/explore-the-garden/) (Charlotte, NC)
+* [South Carolina Botanical Gardens](https://www.clemson.edu/public/scbg/natural-heritage-garden/piedmont-prairie.html) (Clemson, SC)
+* [Meadowlark Santuary Piedmont Prairie](https://www.greensboro-nc.gov/departments/parks-recreation/parks-gardens/price-park/meadowlark-sanctuary-piedmont-prairie) (Greensboro, NC)
+* [State Botanical Garden of Georgia](https://botgarden.uga.edu/state-botanical-garden-georgia-prairie-restoration/) (Athens, GA)
+
+# Guides
+
+* [How to restore a native grass meadow](https://www.fws.gov/raleigh/pdfs/NativeGrassFactsheet.pdf): Horton Grove Nature Preserve Success Story

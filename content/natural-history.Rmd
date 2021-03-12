@@ -72,12 +72,26 @@ Were bison a keystone species in the Piedmont, maintaining and expanding prairie
 
 # Biodiversity
 
-From a distance, grasslands may appear to have little biodiversity since a small number species are often highly abundant. Close inspection tells a different story. In fact, grassland habitats can be among the most biodiverse places on earth [@wilson2012plant; @risser1988diversity]. @tompkins2010suther inventoried over 200 species on a 2.8 hectare site on a Piedmont prairie site.  
+From a distance, grasslands may appear to host only a few, highly abundant species, and thus have little biodiversity. Close inspection tells a different story. In fact, grassland habitats can be among the most biodiverse places on earth [@wilson2012plant; @risser1988diversity]. @tompkins2010suther inventoried over 200 species on a single 2.8 hectare Piedmont prairie site.  
 
-* Description of the community
-   * VA Natural Heritage [Piedmont Oak - Hickory Woodlands, Savannas, and Grasslands](https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctd9)
-* endangered and rare species
-   * sunflower
+Several rare or endangered species find refuge Piedmont prairie habitats. [Schweinwitz's sunflower](https://en.wikipedia.org/wiki/Helianthus_schweinitzii) (*Helianthus schweinitzii*) is a federally listed endangered species and found only in the South/North Carolina Piedmont. [Smooth purple coneflower](https://en.wikipedia.org/wiki/Echinacea_laevigata) (*Echinacea laevigata*) is another federally listed species that prefers open and sunny habitats.
+
+<figure>
+![Piedmont Ecoregion](https://upload.wikimedia.org/wikipedia/commons/0/07/Echinacea_laevigata.jpg)
+ <figcaption>
+  *Echinacea laevigata*
+ </figcaption>
+</figure>
+
+<!--
+## Habitat Descriptions
+
+The links below provide official descriptions of several habitats that share 
+
+* [Piedmont Oak - Hickory Woodlands, Savannas, and Grasslands](https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctd9) (VA Natural Heritage Program)
+* [Southern Piedmont Glade and Barrens](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.723175/Southern_Piedmont_Glade_and_Barrens) (NatureServe)
+* [Prairies and Savannas (Upland)](https://www.naturalcommunitiesofgeorgia.com/prairies-and-savannas-upland.html)
+-->
    
 # Conservation
 
