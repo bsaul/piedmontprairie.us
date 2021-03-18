@@ -93,28 +93,24 @@ The links below provide official descriptions of several habitats that share
 * [Prairies and Savannas (Upland)](https://www.naturalcommunitiesofgeorgia.com/prairies-and-savannas-upland.html)
 -->
    
+## Finding prairies today
+
+While ample evidence shows prairie and savanna habitats were once more widespread in the Piedmont, where can be the prairies be found today? Besides a handful of prairie sites managed for conservation (see map below), many of the best prairie habitats are hidden in plain sight! The regular mowing and removal of woody species makes roadsides and other rights-of-way ideal [refugia](https://en.wikipedia.org/wiki/Refugium_(population_biology)) for prairie species in the Piedmont [@adams2012a-synthesis].
+
+* ADD MAP
+* Importance of early successional habitat for non-plant species (?)
+
+
 # Conservation
 
-The Piedmont region is notably developed:
+Awareness of the Piedmont prairie's conservation value has risen in recent years. While the Piedmont region is highly fragmented and development pressures are only increasing, there are positive signs conservation of this habitat. A number of prairie [demonstration and restoration sites](/get-involved#restoration-and-demonstration-projects) have been created.
+Organizations such as the [Southeastern Grasslands Initiative](https://www.segrasslands.org/piedmont) have spearheaded initiatives to identify, protect, and restore Piedmont prairie. 
 
-* development
-* population
-* fragmentation
-
-
-## Roadsides & Rights-of-Way
-
-## Conservation of the piedmont prairie
 
 ```{r echo = FALSE}
 blogdown::shortcode("youtube", "xvsbhaJUwew")
 ```
 
-* Importance of early successional habitat.
-* Southeastern Grasslands Initiative
 
-# Climate Change and Grasslands
-
-@dass2018grasslands
 
 # References
