@@ -1,6 +1,6 @@
 ---
 featured_image: ""
-title: Bibliography
+title: References 
 weight: 4
 menu:
   main:
