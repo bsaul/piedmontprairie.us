@@ -15,7 +15,18 @@
           </h2>
         {{ end }}
       </div>
+      <div class="featured_image_attribution fw1 f6 f6-l white-90 measure-wide-l mt3"> 
+        
+          <p style="text-align:right;">
+            {{ with .Params.featured_image_description}} {{ . }} {{ end }}
+            {{ with .Params.featured_image_attribution }}
+              &copy; {{ . }} 
+            {{ end }}
+          </p>
+
+      </div>
     </div>
+    
   </header>
 {{ else }}
   <header>

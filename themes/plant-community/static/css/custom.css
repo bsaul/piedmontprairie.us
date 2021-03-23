@@ -7,3 +7,6 @@
   font-style: italic;
 }
 */
+.featured_image_attribution p {
+  text-align: right;
+}

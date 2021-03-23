@@ -1,5 +1,5 @@
 theme = "plant-community"
-baseURL = "http://piedmontprairie.netlify.app"
+baseURL = "http://piedmontprairie.us"
 languageCode = "en-us"
 title = "Piedmont Prairie"
 
@@ -28,6 +28,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$",  "\\.utf8\\.md$", "_
   linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/Parthenium-integrifolium-0.jpg"
+  # featured_image = "/images/fauquier-va-little-bluestem.jpg"
   recent_posts_number = 2
   custom_css = ["css/custom.css"]
