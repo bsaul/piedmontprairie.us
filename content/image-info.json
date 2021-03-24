@@ -21,9 +21,15 @@
     "photographer": ""
   },
   {
-    "name" : "",
+    "name" : "little-bluestem-habitat",
     "file" : "fauquier-va-little-bluestem.jpg",
     "photographer" : "Bert Harris; Clifton Institute",
-    "license" : "&#169"
-  }
+    "license" : "&copy; Bert Harris"
+  },
+  {
+    "name" : "mason-farm-digitalis",
+    "file" : "mason-farm-0.jpg",
+    "photographer" : "Rua Mordecai; US Fish and Wildlife Service",
+    "license" : "&copy; Rua Mordecai"
+  }  
 ]
