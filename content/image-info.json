@@ -21,6 +21,55 @@
     "photographer": ""
   },
   {
+    "name" : "asclepias-tuberosa-inat",
+    "file" : "map-47912.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org",
+    "photographer": ""
+  },
+  {
+    "name" : "coreopsis-major-inat",
+    "file" : "map-129672.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org",
+    "photographer": ""
+  },
+  {
+    "name" : "marshallia-obovata-inat",
+    "file" : "map-129317.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org",
+    "photographer": ""
+  },
+  {
+    "name" : "quercus-marilandica-inat",
+    "file" : "map-82329.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org",
+    "photographer": ""
+  },
+  {
+    "name" : "schizachyrium-scoparium-inat",
+    "file" : "map-122603.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org",
+    "photographer": ""
+  },
+  {
+    "name" : "sorghastrum-nutans-inat",
+    "file" : "map-122608.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org",
+    "photographer": ""
+  },
+  {
+    "name" : "symphyotrichum-grandiflorum-inat",
+    "file" : "map-169466.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org",
+    "photographer": ""
+  },
+  {
     "name" : "little-bluestem-habitat",
     "file" : "fauquier-va-little-bluestem.jpg",
     "photographer" : "Bert Harris; Clifton Institute",
