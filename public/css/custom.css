@@ -6,6 +6,10 @@
 .common_name {
   
 }
+
+figcaption {
+  font-size: 0.75rem;
+}
 /*
 .plant_display h1 {
   font-style: italic;
