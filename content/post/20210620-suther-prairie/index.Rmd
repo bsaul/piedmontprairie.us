@@ -1,0 +1,91 @@
+---
+date: 2021-06-20T12:24:00-04:00
+author: Bradley Saul
+description: "Images of a Piedmont prairie remnant site."
+# featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+tags: ["prairie-sites"]
+title: "A Visit to Suther Prairie"
+---
+
+Last month, I finally had the privilege to visit [Suther prairie](https://www.ncplantfriends.org/suther_prairie.html) in Cabarrus county, North Carolina as part of a [NC Botanical Garden](https://ncbg.unc.edu/) field trip. I had been wanting to visit this site since learning about it a few years ago from [Tompkins et al](https://doi.org/10.2179/09-041.1) paper on the flora of the site. Until recently acquired by the state, this site has been held by the same family since the 1700s and not been plowed in all those years. The site is thought to be one of the best examples of what a (wetter) Piedmont prairie may have resembles 300-400 years ago.
+
+I've shared a few images from the day below.
+
+<figure>
+![Suther prairie](20210509-suther-prairie-00.jpg)
+ <figcaption>
+    A panoramic view of the site
+ </figcaption>
+</figure>
+
+<figure>
+![Suther prairie](20210509-suther-prairie-01.jpg)
+ <figcaption>
+    Spiderwort
+ </figcaption>
+</figure>
+
+<figure>
+![Suther prairie](20210509-suther-prairie-02.jpg)
+ <figcaption>
+    an Amsonia species in bloom
+ </figcaption>
+</figure>
+
+<figure>
+![Suther prairie](20210509-suther-prairie-03.jpg)
+ <figcaption>
+    Atamasco lily
+ </figcaption>
+</figure>
+
+<figure>
+![Suther prairie](20210509-suther-prairie-04.jpg)
+ <figcaption>
+    The lilies were in full bloom.
+ </figcaption>
+</figure>
+
+<figure>
+![Suther prairie](20210509-suther-prairie-05.jpg)
+ <figcaption>
+    The lilies made a nice place to botanize.
+ </figcaption>
+</figure>
+
+<figure>
+![Suther prairie](20210509-suther-prairie-06.jpg)
+ <figcaption>
+    an Oenothera in bloom
+ </figcaption>
+</figure>
+
+<figure>
+![Suther prairie](20210509-suther-prairie-07.jpg)
+ <figcaption>
+    The field was full of interesting sedges.
+ </figcaption>
+</figure>
+
+
+<figure>
+![Suther prairie](20210509-suther-prairie-08.jpg)
+ <figcaption>
+    The entrance to a crayfish burrow
+ </figcaption>
+</figure>
+
+
+<figure>
+![Suther prairie](20210509-suther-prairie-09.jpg)
+ <figcaption>
+    It was my daughter Aster's first botany field trip!
+ </figcaption>
+</figure>
+
+Be sure to follow [NC Botanical Garden](https://ncbg.unc.edu/) on twitter to find out about upcoming field trips and talks:
+
+```{r, echo = FALSE}
+blogdown::shortcode("tweet", "1374461480611893252")
+```
+
