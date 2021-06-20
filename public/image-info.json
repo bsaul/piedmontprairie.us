@@ -12,5 +12,12 @@
     "license": "CC0",
     "source": "https://www.inaturalist.org/photos/44256714",
     "photographer": "Bradley Saul"
+  },
+  {
+    "name" : "parthenium-integrifolium-inat",
+    "file" : "map-83893.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org",
+    "photographer": ""
   }
 ]
