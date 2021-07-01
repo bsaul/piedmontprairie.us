@@ -21,6 +21,7 @@ menu:
 # Prairie sites
 
 * [Mason Farm Biological Preserve](https://ncbg.unc.edu/visit/mason-farm-biological-reserve/) (Chapel Hill, NC)
+* [Blackjacks Heritage Preserve](https://www2.dnr.sc.gov/ManagedLands/ManagedLand/ManagedLand/46) (Rock Hill, SC)
 
 # Restoration and Demonstration Projects
 

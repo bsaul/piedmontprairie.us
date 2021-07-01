@@ -8,10 +8,10 @@ names:
   inat_taxon_id: 122608
 description: 
 images:
+  - key: sorghastrum-nutans-flower
+    desc: Flower
   - key: sorghastrum-nutans-inat
     desc: Inaturalist observations
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt tellus nec porta sodales. Nam varius tellus sollicitudin, molestie ex nec, pretium est. Maecenas ut commodo ante, sit amet dapibus ante. Sed egestas risus ante, eget fermentum ex convallis quis. Nulla venenatis magna ac justo tincidunt consequat. Vivamus tempor, arcu sit amet porttitor lacinia, nisi nibh pellentesque nisi, eget bibendum est eros ut felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla aliquam ligula quis vestibulum suscipit. Phasellus nibh dolor, dignissim quis lobortis et, faucibus ut purus. Proin accumsan vel lorem quis laoreet. Quisque vitae diam venenatis nulla placerat maximus vel id erat. Vivamus eu justo at ipsum consequat sodales.
-
-Suspendisse at orci in tortor ullamcorper pellentesque. Mauris sed venenatis lacus, sed tincidunt eros. Suspendisse potenti. Donec ut odio in sapien luctus mattis. Donec imperdiet est non ultrices scelerisque. Fusce iaculis convallis convallis. Sed.
+Like [little bluestem](../schizachyrium_scoparium), indiangrass (*Sorghastrum nutans*) is characteristic tallgrass prairie grass also common in the Piedmont. Where indiangrass has formed large colonies, the seed heads provide stunning visual interest to roadsides in the Fall. 
