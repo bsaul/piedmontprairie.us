@@ -12,6 +12,4 @@ images:
     desc: Inaturalist observations
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt tellus nec porta sodales. Nam varius tellus sollicitudin, molestie ex nec, pretium est. Maecenas ut commodo ante, sit amet dapibus ante. Sed egestas risus ante, eget fermentum ex convallis quis. Nulla venenatis magna ac justo tincidunt consequat. Vivamus tempor, arcu sit amet porttitor lacinia, nisi nibh pellentesque nisi, eget bibendum est eros ut felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla aliquam ligula quis vestibulum suscipit. Phasellus nibh dolor, dignissim quis lobortis et, faucibus ut purus. Proin accumsan vel lorem quis laoreet. Quisque vitae diam venenatis nulla placerat maximus vel id erat. Vivamus eu justo at ipsum consequat sodales.
-
-Suspendisse at orci in tortor ullamcorper pellentesque. Mauris sed venenatis lacus, sed tincidunt eros. Suspendisse potenti. Donec ut odio in sapien luctus mattis. Donec imperdiet est non ultrices scelerisque. Fusce iaculis convallis convallis. Sed.
+There are many asters native to the Piedmont Prairie, but largeflower aster (*Symphyotrichum grandiflorum*) is endemic to the Piedmont and parts of the Coastal Plain. This plant can be prolific with its purple flowers, making it easy to spot for the keen eye when it blooms in early Fall. This species is [listed as vulnerable](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.133496/Symphyotrichum_grandiflorum) by the North Carolina Natural Hertiage Program.
