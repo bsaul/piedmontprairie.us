@@ -21,11 +21,19 @@
   {{ $desc := .desc}}
     {{ range $images }}
       {{ if eq .name $key }}
-      <a href="/images/{{ .file }}"
+      {{ if .file }} 
+      <a href= "/images/{{ .file }}"
          data-ngthumb="/images/{{ .file }}" 
          data-ngdesc="Image of {{ $desc }}. Photo by {{ .photographer }} under {{ .license }} license. ">
           {{ $desc }}
       </a>
+      {{ else if .url }} 
+      <a href= "{{ .url }}"
+         data-ngthumb= "{{ .url }}" 
+         data-ngdesc="Image of {{ $desc }}. Photo by {{ .photographer }} under {{ .license }} license. ">
+          {{ $desc }}
+      </a>
+      {{ end }}
 
       {{ end }}
     {{ end }}

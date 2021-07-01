@@ -7,10 +7,12 @@ names:
   inat_taxon_id: 129672
 description: 
 images:
+  - key: coreopsis-major-flower
+    desc: Flower
+  - key: coreopsis-major-leaves
+    desc: Leaves
   - key: coreopsis-major-inat
     desc: Inaturalist observations
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt tellus nec porta sodales. Nam varius tellus sollicitudin, molestie ex nec, pretium est. Maecenas ut commodo ante, sit amet dapibus ante. Sed egestas risus ante, eget fermentum ex convallis quis. Nulla venenatis magna ac justo tincidunt consequat. Vivamus tempor, arcu sit amet porttitor lacinia, nisi nibh pellentesque nisi, eget bibendum est eros ut felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla aliquam ligula quis vestibulum suscipit. Phasellus nibh dolor, dignissim quis lobortis et, faucibus ut purus. Proin accumsan vel lorem quis laoreet. Quisque vitae diam venenatis nulla placerat maximus vel id erat. Vivamus eu justo at ipsum consequat sodales.
-
-Suspendisse at orci in tortor ullamcorper pellentesque. Mauris sed venenatis lacus, sed tincidunt eros. Suspendisse potenti. Donec ut odio in sapien luctus mattis. Donec imperdiet est non ultrices scelerisque. Fusce iaculis convallis convallis. Sed.
+Greater tickseed (*Coreopsis major*) and many other members of the [Asteraceae](https://en.wikipedia.org/wiki/Asteraceae) are common Piedmont roadside inhabitants. This plant typically only reaches up to 3 feet in height. But with its striking, large yellow flowers, greater tickseed can stand out along roadside edges. Unlike other species like [Wild Quinine](parthenium_integrifolium), the native range of Greater tickseed only extends into Louisiana and not into the Mid-West plains.

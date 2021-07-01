@@ -7,10 +7,12 @@ names:
   inat_taxon_id: 129317
 description: 
 images:
+  - key: marshallia-obovata-flower
+    desc: Flower
+  - key: marshallia-obovata-habit
+    desc: Habit
   - key: marshallia-obovata-inat
     desc: Inaturalist observations
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt tellus nec porta sodales. Nam varius tellus sollicitudin, molestie ex nec, pretium est. Maecenas ut commodo ante, sit amet dapibus ante. Sed egestas risus ante, eget fermentum ex convallis quis. Nulla venenatis magna ac justo tincidunt consequat. Vivamus tempor, arcu sit amet porttitor lacinia, nisi nibh pellentesque nisi, eget bibendum est eros ut felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla aliquam ligula quis vestibulum suscipit. Phasellus nibh dolor, dignissim quis lobortis et, faucibus ut purus. Proin accumsan vel lorem quis laoreet. Quisque vitae diam venenatis nulla placerat maximus vel id erat. Vivamus eu justo at ipsum consequat sodales.
-
-Suspendisse at orci in tortor ullamcorper pellentesque. Mauris sed venenatis lacus, sed tincidunt eros. Suspendisse potenti. Donec ut odio in sapien luctus mattis. Donec imperdiet est non ultrices scelerisque. Fusce iaculis convallis convallis. Sed.
+You're unlikely to see Piedmont Barbara's buttons (*Marshallia obovata*) without looking for it. This plant rarely grows more than a couple of feet high. The late Spring, white flowers do not always stand out like the yellow flowers of many [Asteraceae](https://en.wikipedia.org/wiki/Asteraceae). Visit the [Piedmont habitat](https://ncbg.unc.edu/wp-content/uploads/sites/963/2019/04/NCBG_MasterMap.pdf) at the North Carolina Botanical Garden in late May though, and you're sure to find Barbara's buttons in bloom.

@@ -28,6 +28,27 @@
     "photographer": ""
   },
   {
+    "name" : "asclepias-tuberosa-flower",
+    "url" : "https://inaturalist-open-data.s3.amazonaws.com/photos/51059909/large.jpg?1568233326",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/51059909",
+    "photographer": ""
+  },
+  {
+    "name" : "asclepias-tuberosa-seedpod",
+    "file" : "asclepias-tuberosa-0.jpg",
+    "license": "CC0",
+    "source": "",
+    "photographer": "Bradley Saul"
+  },
+  {
+    "name" : "asclepias-tuberosa-habit",
+    "file" : "asclepias-tuberosa-1.jpg",
+    "license": "CC0",
+    "source": "",
+    "photographer": "Bradley Saul"
+  },
+  {
     "name" : "coreopsis-major-inat",
     "file" : "map-129672.png",
     "license": "CC0",
@@ -35,10 +56,38 @@
     "photographer": ""
   },
   {
+    "name" : "coreopsis-major-flower",
+    "url" : "https://inaturalist-open-data.s3.amazonaws.com/photos/136917607/large.jpg?1623926139",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/136917607",
+    "photographer": ""
+  },
+  {
+    "name" : "coreopsis-major-leaves",
+    "url" : "https://inaturalist-open-data.s3.amazonaws.com/photos/130110421/large.jpg?1621453753",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/130110421",
+    "photographer": ""
+  },
+  {
     "name" : "marshallia-obovata-inat",
     "file" : "map-129317.png",
     "license": "CC0",
     "source": "https://www.inaturalist.org",
+    "photographer": ""
+  },
+  {
+    "name" : "marshallia-obovata-flower",
+    "url" : "https://inaturalist-open-data.s3.amazonaws.com/photos/72227499/large.jpg?1589157173",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/72227499",
+    "photographer": ""
+  },
+  {
+    "name" : "marshallia-obovata-habit",
+    "url" : "https://inaturalist-open-data.s3.amazonaws.com/photos/72227473/large.jpg?1589157160",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/72227473",
     "photographer": ""
   },
   {
@@ -80,5 +129,5 @@
     "file" : "mason-farm-0.jpg",
     "photographer" : "Rua Mordecai; US Fish and Wildlife Service",
     "license" : "&copy; Rua Mordecai"
-  }  
+  }
 ]
