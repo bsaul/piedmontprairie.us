@@ -1,20 +1,22 @@
 <!-- Taken from https://howisjt.com/posts/tech-hugo-image-gallery/ -->
-<div id="{{ .gallery }}" data-nanogallery2='{
-  "itemsBaseURL": "{{ .src }}",
-  "thumbnailWidth": "auto",
-  "thumbnailBorderVertical": 1,
-  "thumbnailBorderHorizontal": 1,
+<div id="{{ .gallery }}"  data-nanogallery2='{
+  "thumbnailHeight":  300,
+  "thumbnailWidth":   300,
+
+  "thumbnailBorderVertical": 0,
+  "thumbnailBorderHorizontal": 0,
   "thumbnailLabel": {
       "position": "overImageOnBottom",
-      "align": "right"
+      "align": "right",
+      "titleFontSize": "0.5em"
     },
   "thumbnailAlignment": "center",
-  "viewerToolbar": {
-      "standard": "minimizeButton, infoButton, shareButton, downloadButton, 
-                   zoomButton, fullscreenButton",
-      "minimized": "minimizeButton"}
+   "viewerTools":    {
+    "topLeft":   "label",
+    "topRight":  "shareButton, fullscreenButton, closeButton"
+  }
   }'
->
+> 
   {{ range .images }}
   {{ $images := getJSON "content/image-info.json" }}
   {{ $key := .key }}
@@ -24,13 +26,13 @@
       {{ if .file }} 
       <a href= "/images/{{ .file }}"
          data-ngthumb="/images/{{ .file }}" 
-         data-ngdesc="Image of {{ $desc }}. Photo by {{ .photographer }} under {{ .license }} license. ">
+         data-ngdesc="Image {{ if .photographer }} by {{ .photographer }} {{ end }} under {{ .license }} license {{ if .source }} (source: {{ .source }}) {{ end }}">
           {{ $desc }}
       </a>
       {{ else if .url }} 
       <a href= "{{ .url }}"
          data-ngthumb= "{{ .url }}" 
-         data-ngdesc="Image of {{ $desc }}. Photo by {{ .photographer }} under {{ .license }} license. ">
+         data-ngdesc="Image {{ if .photographer }} by {{ .photographer }} {{ end }} under {{ .license }} license {{ if .source }} (source: {{ .source }}) {{ end }}">
           {{ $desc }}
       </a>
       {{ end }}
@@ -38,5 +40,4 @@
       {{ end }}
     {{ end }}
   {{end}}
-<!--{{ .Inner }}-->
 </div>

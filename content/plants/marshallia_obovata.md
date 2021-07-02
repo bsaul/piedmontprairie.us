@@ -8,7 +8,7 @@ names:
 description: 
 images:
   - key: marshallia-obovata-flower
-    desc: Flower
+    desc: Marshallia obovata flowers
   - key: marshallia-obovata-habit
     desc: Habit
   - key: marshallia-obovata-inat
