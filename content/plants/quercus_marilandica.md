@@ -6,6 +6,7 @@ names:
 #  kemper: 
   mbot_taxon_id: 280720
   inat_taxon_id: 82329
+featured_image: quercus-marilandica-leaves
 description: 
 images:  
   - key: quercus-marilandica-leaves

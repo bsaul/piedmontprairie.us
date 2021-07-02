@@ -5,6 +5,7 @@ names:
   usda: COMA6
   mbot_taxon_id: 277416
   inat_taxon_id: 129672
+featured_image: coreopsis-major-flower
 description: 
 images:
   - key: coreopsis-major-flower

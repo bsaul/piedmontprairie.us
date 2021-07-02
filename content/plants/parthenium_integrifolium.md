@@ -5,6 +5,7 @@ names:
   usda: PAIN3
   kemper: g580
   inat_taxon_id: 83893
+featured_image: parthenium-integrifolium-flower
 description:
 images:
   - key: parthenium-integrifolium-habit

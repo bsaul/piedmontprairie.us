@@ -1,21 +1,21 @@
-<article class="bb b--black-10">
-  <a class="db pv4 ph3 ph0-l no-underline dark-gray dim" href="{{ .Permalink }}">
-    <div class="flex flex-column flex-row-ns">
-      {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
-      {{ if $featured_image }}
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <img src="{{ $featured_image }}" class="db" alt="image from {{ .Title }}">
-        </div>
-      {{ end }}
-      <div class="w-100{{ if $featured_image }} w-60-ns pl3-ns{{ end }}">
-        <h1 class="f3 fw1 athelas mt0 lh-title">{{ .Title }}</h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height">
-          {{ .Summary }}
-          I added text!!!
-        </div>
-        {{/* TODO: add author
-        <p class="f6 lh-copy mv0">By {{ .Author }}</p> */}}
-      </div>
+<div class="mb3 pa4 mid-gray overflow-hidden">
+  <a href="{{ .Permalink }}" class="link black dim">
+    <h1 class="f3 near-black">
+        {{ $.Param "names.common" }}
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+        {{ $feat := $.Param "featured_image" }}
+        {{ $images := getJSON "content/image-info.json" }}
+          {{ range $images }}
+            {{ if eq .name $feat }}
+            {{ if .file }} 
+            <img src = "/images/{{ .file }} ">
+            {{ else if .url }} 
+           <img src = "{{ .url }} ">
+            {{ end }}
+      
+          {{ end }}
+        {{ end }}
     </div>
   </a>
-</article>
+</div>

@@ -5,6 +5,7 @@ names:
   usda: ASTU
   kemper: b490
   inat_taxon_id: 47912
+featured_image: asclepias-tuberosa-flower
 description: 
 images:
   - key: asclepias-tuberosa-flower

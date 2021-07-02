@@ -5,6 +5,7 @@ names:
   usda: MAOBO
 #  kemper: 
   inat_taxon_id: 129317
+featured_image: marshallia-obovata-flower
 description: 
 images:
   - key: marshallia-obovata-flower

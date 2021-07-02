@@ -6,6 +6,7 @@ names:
   kemper: f510
 # mbot_taxon_id: 
   inat_taxon_id: 122603
+featured_image: schizachyrium-scoparium-bunch
 description: 
 images:
   - key: schizachyrium-scoparium-bunch

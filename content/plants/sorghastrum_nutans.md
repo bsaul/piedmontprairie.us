@@ -6,6 +6,7 @@ names:
   kemper: g780
 # mbot_taxon_id: 
   inat_taxon_id: 122608
+featured_image: sorghastrum-nutans-flower
 description: 
 images:
   - key: sorghastrum-nutans-flower
