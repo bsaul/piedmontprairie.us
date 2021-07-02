@@ -18,17 +18,26 @@ menu:
 * [North Carolina Piedmont Roadside Native Plants](https://www.inaturalist.org/projects/north-carolina-piedmont-roadside-native-plants)
 * [Southern Piedmont Pine-Oak Savannas](https://www.inaturalist.org/projects/southern-piedmont-pine-oak-savannas)
 
-# Prairie sites
+# Prairie and savannah sites
 
-* [Mason Farm Biological Preserve](https://ncbg.unc.edu/visit/mason-farm-biological-reserve/) (Chapel Hill, NC)
 * [Blackjacks Heritage Preserve](https://www2.dnr.sc.gov/ManagedLands/ManagedLand/ManagedLand/46) (Rock Hill, SC)
+* [Difficult Creek Natural Area Preserve](https://www.dcr.virginia.gov/natural-heritage/natural-area-preserves/difficult) (Halifax, VA)
+* [Manassas National Battlefield Park](https://www.nps.gov/mana/index.htm) (Manassas, VA)
+* [Mason Farm Biological Preserve](https://ncbg.unc.edu/visit/mason-farm-biological-reserve/) (Chapel Hill, NC)
+* [Sumter Post Oak Savanna](https://www.fs.usda.gov/recarea/scnfs/recarea/?recid=47217)
+* [Penny's Bend Nature Preserve](https://ncbg.unc.edu/visit/preserves-and-natural-areas/#pennys_bend) (Durham, NC)
 
 # Restoration and Demonstration Projects
 
-* [McDowell Nature Center and Preserve](https://www.mecknc.gov/ParkandRec/StewardshipServices/NatureCenters/Pages/McDowell.aspx) (Charlotte, NC)
+* [Buffalo Creek Preserve](https://www.carolinathreadtrailmap.org/trails/trail/buffalo-creek-preserve-trail) (Mt Pleasant, NC)
+* [Carolina Xeriscape](https://carolinaxeriscape.org/) (Durham, NC)
 * [Daniel Stowe Botanical Gardens](https://www.dsbg.org/visit/explore-the-garden/) (Charlotte, NC)
-* [South Carolina Botanical Gardens](https://www.clemson.edu/public/scbg/natural-heritage-garden/piedmont-prairie.html) (Clemson, SC)
+* [Glennstone Nature Preserve](https://www.ellerbecreek.org/glennstone.html) (Durham, NC)
+* [Latta Nature Preserve](https://www.mecknc.gov/ParkandRec/StewardshipServices/NatureCenters/Pages/Latta.aspx) (Huntersville, NC)
+* [McDowell Nature Center and Preserve](https://www.mecknc.gov/ParkandRec/StewardshipServices/NatureCenters/Pages/McDowell.aspx) (Charlotte, NC)
 * [Meadowlark Santuary Piedmont Prairie](https://www.greensboro-nc.gov/departments/parks-recreation/parks-gardens/price-park/meadowlark-sanctuary-piedmont-prairie) (Greensboro, NC)
+* [Prairie Ridge Ecostation](https://naturalsciences.org/prairie-ridge) (Raleigh, NC)
+* [South Carolina Botanical Gardens](https://www.clemson.edu/public/scbg/natural-heritage-garden/piedmont-prairie.html) (Clemson, SC)
 * [State Botanical Garden of Georgia](https://botgarden.uga.edu/state-botanical-garden-georgia-prairie-restoration/) (Athens, GA)
 
 # Guides
