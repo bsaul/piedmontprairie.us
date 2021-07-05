@@ -17,7 +17,126 @@
     "name" : "parthenium-integrifolium-inat",
     "file" : "map-83893.png",
     "license": "CC0",
-    "source": "https://www.inaturalist.org",
-    "photographer": ""
+    "source": "https://www.inaturalist.org"
+  },
+  {
+    "name" : "asclepias-tuberosa-inat",
+    "file" : "map-47912.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org"
+  },
+  {
+    "name" : "asclepias-tuberosa-flower",
+    "url" : "https://inaturalist-open-data.s3.amazonaws.com/photos/51059909/large.jpg?1568233326",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/51059909"
+  },
+  {
+    "name" : "asclepias-tuberosa-seedpod",
+    "file" : "asclepias-tuberosa-0.jpg",
+    "license": "CC0",
+    "photographer": "Bradley Saul"
+  },
+  {
+    "name" : "asclepias-tuberosa-habit",
+    "file" : "asclepias-tuberosa-1.jpg",
+    "license": "CC0",
+    "photographer": "Bradley Saul"
+  },
+  {
+    "name" : "coreopsis-major-inat",
+    "file" : "map-129672.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org"
+  },
+  {
+    "name" : "coreopsis-major-flower",
+    "url" : "https://inaturalist-open-data.s3.amazonaws.com/photos/136917607/large.jpg?1623926139",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/136917607"
+  },
+  {
+    "name" : "coreopsis-major-leaves",
+    "url" : "https://inaturalist-open-data.s3.amazonaws.com/photos/130110421/large.jpg?1621453753",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/130110421"
+  },
+  {
+    "name" : "marshallia-obovata-inat",
+    "file" : "map-129317.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org"
+  },
+  {
+    "name" : "marshallia-obovata-flower",
+    "url" : "https://inaturalist-open-data.s3.amazonaws.com/photos/72227499/large.jpg?1589157173",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/72227499"
+  },
+  {
+    "name" : "marshallia-obovata-habit",
+    "url" : "https://inaturalist-open-data.s3.amazonaws.com/photos/72227473/large.jpg?1589157160",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/72227473"
+  },
+  {
+    "name" : "quercus-marilandica-inat",
+    "file" : "map-82329.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org"
+  },
+  {
+    "name" : "quercus-marilandica-leaves",
+    "url" : "https://inaturalist-open-data.s3.amazonaws.com/photos/129905099/large.jpg?1621369856",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/1621369856"
+  },
+  {
+    "name" : "quercus-marilandica-bark",
+    "url" : "https://inaturalist-open-data.s3.amazonaws.com/photos/129905171/large.jpg?1621369880",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/1621369856"
+  },
+  {
+    "name" : "schizachyrium-scoparium-inat",
+    "file" : "map-122603.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org"
+  },
+  {
+    "name" : "schizachyrium-scoparium-bunch",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/f/f6/SchizachyriumScoparium.jpg",
+    "license": "Chhe, Public domain, via Wikimedia Commons"
+  },
+  {
+    "name" : "sorghastrum-nutans-inat",
+    "file" : "map-122608.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org"
+  },
+  {
+    "name" : "sorghastrum-nutans-flower",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sorghastrum_nutans_flowers_closeup.jpg/477px-Sorghastrum_nutans_flowers_closeup.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "Wikimedia Commons",
+    "photographer": "Joshua Mayer"
+  },
+  {
+    "name" : "symphyotrichum-grandiflorum-inat",
+    "file" : "map-169466.png",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org"
+  },
+  {
+    "name" : "little-bluestem-habitat",
+    "file" : "fauquier-va-little-bluestem.jpg",
+    "photographer" : "Bert Harris; Clifton Institute",
+    "license" : "&copy; Bert Harris"
+  },
+  {
+    "name" : "mason-farm-digitalis",
+    "file" : "mason-farm-0.jpg",
+    "photographer" : "Rua Mordecai; US Fish and Wildlife Service",
+    "license" : "&copy; Rua Mordecai"
   }
 ]

@@ -22,21 +22,35 @@
   </url>
   
   <url>
-    <loc>http://piedmontprairie.us/</loc>
-    <lastmod>2020-12-19T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://piedmontprairie.us/post/20201219-duke-prairie-pockets/</loc>
-    <lastmod>2020-12-19T12:24:00-04:00</lastmod>
+    <loc>http://piedmontprairie.us/post/20210620-suther-prairie/</loc>
+    <lastmod>2021-06-20T12:24:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://piedmontprairie.us/tags/prairie-sites/</loc>
+    <lastmod>2021-06-20T12:24:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.us/tags/</loc>
+    <lastmod>2021-06-20T12:24:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.us/</loc>
+    <lastmod>2021-06-20T12:24:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.us/post/20201219-duke-prairie-pockets/</loc>
     <lastmod>2020-12-19T12:24:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -50,14 +64,49 @@
   </url>
   
   <url>
-    <loc>http://piedmontprairie.us/tags/</loc>
-    <lastmod>2020-12-19T12:24:00-04:00</lastmod>
+    <loc>http://piedmontprairie.us/plants/asclepias_tuberosa/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.us/plants/coreoposis_major/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.us/plants/marshallia_obovata/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://piedmontprairie.us/plants/parthenium_integrifolium/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.us/plants/quercus_marilandica/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.us/plants/schizachyrium_scoparium/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.us/plants/sorghastrum_nutans/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://piedmontprairie.us/plants/symphyotrichum_grandiflorum/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

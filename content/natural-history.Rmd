@@ -10,7 +10,7 @@ menu:
     weight: 1
 ---
 
-There's a common myth that colonizers of the Southeastern Piedmont reached a vast, unbroken forest. [Some have claimed](https://www.youtube.com/watch?v=rXJmR1GjE50) that a a squirrel could cross the Piedmont from mountains to the coastal plain and "never have seen a flicker of sunshine on the ground" [@adams2012epic as quoted in @brown2000wildland]. Recent academic literature refers to the pre-colonial Piedmont region as "Southern Forest" [e.g., @sanderson2008the-ecological]. Even in _Field Guide to the Piedmont_, author Michael Godfrey [-@godfrey2012field] writes:
+A common myth is that colonizers of the Southeastern Piedmont reached a vast, unbroken forest. [Some have claimed](https://www.youtube.com/watch?v=rXJmR1GjE50) that a a squirrel could cross the Piedmont from mountains to the coastal plain and "never have seen a flicker of sunshine on the ground" [@adams2012epic as quoted in @brown2000wildland]. Recent academic literature refers to the pre-colonial Piedmont region as "Southern Forest" [e.g., @sanderson2008the-ecological]. Even in _Field Guide to the Piedmont_, author Michael Godfrey [-@godfrey2012field] writes:
 
 > This is what I see in the Piedmont of 300 years ago: the canopy claims the direct sunlight completely by filling every gap with a broad-leaved parasol, cantilevered aloft. No part of the jade awning is within one hundred feet of the ground.
 
@@ -29,27 +29,27 @@ The precise extent of prairie-like habitat prior to European settlement is unkno
 
 > On a vegetation map of the ancient Southeast, if such a map could be constructed from the early records, there would be some areas in dark green color to show the dense and mature forests, other areas in light green to represent the open woodlands, and the map would be liberally flecked with yellow to indicate the scattered tracts of open country. 
 
-The "yellow flecks" would have been Piedmont prairie.
+These "yellow flecks" would have been Piedmont prairie.
 
 # Prairie origins
 
-Factors that are thought to have contributed to the formation and maintenance of open habitat in the Piedmont include soil, Native American land-use practices, fire, and large herbivores. These are briefly described here, though the relative contribution of each factor to sustain prairie probably varied depended on the specific region and the vegetation community.
+Factors that are thought to have contributed to the formation and maintenance of open habitat in the Piedmont include soil, Native American land-use practices, fire, and large herbivores. These are briefly described here, though the relative contribution of each factor to sustaining prairie habitat probably varied depending on the locale and its vegetation community.
 
 ## Soil
 
 @noss2012forgotten details many endemic plants and plant communities in the Southeast that survive in large part due to the specific soil characteristics where they are found. Indeed, the Southeast is one of the most rich regions in the world in terms of grassland biodiversity. @davis2002vascular associated several prairie remnant sites with characteristic clay soils common in the Piedmont. A dense clayey soil could impede tree root growth, especially during dry summers. 
 
-The Piedmont does have open habitats such as the [Piedmont Hardpan Forest](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.723218/Piedmont_Hardpan_Woodland_and_Forest) dependent on specific soil types. However, the degree to which edaphic (soil) factors maintained large tracts open habitat historically is an open question. Since most of the Piedmont has been plowed in the past 400 years, where we find prairie remnants today may not be representative of the historic habitat. A recent report by the NC Natural Heritage program [@robinson2020piedmont] found "that while edaphic conditions play a role in the distribution of prairie/savanna associated plants, it is the prevention of canopy closure through anthropogenic activity that is most closely associated with the distribution of these plants at the present time."
+The Piedmont does have open habitats such as the [Piedmont Hardpan Forest](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.723218/Piedmont_Hardpan_Woodland_and_Forest) dependent on specific soil types. However, the degree to which edaphic (soil) factors maintained large tracts of open habitat historically is an open question. Since most of the Piedmont has been plowed in the past 400 years, where we find prairie remnants today may not be representative of its historic range and soils.
 
 ## Indigenous Land Use
 
-The Piedmont region was a long-thriving center of human activity prior to European settlement, supporting an extensive trade network and largely agricultural societies. Indeed, @dobbs2009frontier argues that the trade routes left by the indigenous people (after disease had extensively depopulated the Piedmont) set the "initial conditions" upon which early Piedmont settlers built their society.
+A recent report by the NC Natural Heritage program [@robinson2020piedmont] found "that while edaphic conditions play a role in the distribution of prairie/savanna associated plants, it is the prevention of canopy closure through anthropogenic activity that is most closely associated with the distribution of these plants at the present time." The Piedmont region was a long-thriving center of human activity prior to European settlement, supporting an extensive trade network and largely agricultural societies. Indeed, @dobbs2009frontier argues that the trade routes left by the indigenous people (after disease had extensively depopulated the Piedmont) set the "initial conditions" upon which early Piedmont settlers built their society.
 
 Early explorers and settlers of the Piedmont describe large open areas maintained by Native Americans. @brown2000wildland cites several historic records of prairie-like regions of the Virginia Piedmont, including one Robert Beverley who described "large Spots of Meadows and Savanna’s (*sic*), wherein are Hundreds of Acres without any Tree at all; but yield Reeds and Grass of incredible Height."
 
 ## Fire
 
-While many of the Piedmont habitat types today do not share the same dependence on fire as the Long Leaf Pine savannas of the Coastal Plain, remnants of fire-adapted habitats such as [Post Oak savannas](https://www.fs.usda.gov/recarea/scnfs/recarea/?recid=47217) and prairies suggest fire was historically an important driver ecological patterns in the Piedmont. Prior to colonization, fires -- both man-made and natural -- occurred regularly in much of North America. @frost1998presettlement estimates a presettlement fire frequency of every 4-6 years for most of the Piedmont. Native Americans used fire as a primary means to clear and open areas [@williams2003references].
+While many of the Piedmont habitat types today do not share the same dependence on fire as the Long Leaf Pine savannas of the Coastal Plain, remnants of fire-adapted habitats such as [Post Oak savannas](https://www.fs.usda.gov/recarea/scnfs/recarea/?recid=47217) and prairies suggest fire was historically an important driver ecological patterns in the Piedmont. Prior to colonization, fires -- both man-made and natural -- occurred regularly in much of North America. @frost1998presettlement estimates a presettlement fire frequency of every 4-6 years for most of the Piedmont. Native Americans also used fire as a primary means to clear and open areas [@williams2003references].
 
 Today, conservation-minded property managers use fire as critical tool to maintain Piedmont Prairies. The following short video shows how fire is used at a small Piedmont Prairie patch Sarah P. Duke Gardens in Durham, NC:   
 
@@ -64,35 +64,25 @@ Historical evidence suggests American Bison (*Bison bison*) ranged widely across
 <figure>
 <a title="Cephas, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bison_original_range_map.svg"><img alt="Bison original range map" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bison_original_range_map.svg/512px-Bison_original_range_map.svg.png"></a>
  <figcaption>
-    Bison original range map.  Source: <a href="">Wikipedia</a>
+    Bison original range map. Source: <a href="https://commons.wikimedia.org/wiki/File:Bison_original_range_map.svg#file">Wikipedia</a>
  </figcaption>
 </figure>
 
-Were bison a keystone species in the Piedmont, maintaining and expanding prairie habitat? We don't know how long the bison's range extended over the Piedmont. But given the volume of herbaceous plants needed to sustain herds of bison, their effect must have be profound.
+Were bison a keystone species in the Piedmont, maintaining and expanding prairie habitat? We don't know how long the bison's range extended over the Piedmont. But given the volume of herbaceous plants needed to sustain herds of bison, their effect must have been profound.
 
 # Biodiversity
 
-From a distance, grasslands may appear to host only a few, highly abundant species, and thus have little biodiversity. Close inspection tells a different story. In fact, grassland habitats can be among the most biodiverse places on earth [@wilson2012plant; @risser1988diversity]. @tompkins2010suther inventoried over 200 species on a single 2.8 hectare Piedmont prairie site.  
+From a distance, grasslands may appear to have little biodiversity, hosting only a few, highly abundant species. Close inspection tells a different story. In fact, grassland habitats can be among the most biodiverse places on earth [@wilson2012plant; @risser1988diversity]. @tompkins2010suther inventoried over 200 species on a single 2.8 hectare Piedmont prairie site.  
 
 Several rare or endangered species find refuge Piedmont prairie habitats. [Schweinwitz's sunflower](https://en.wikipedia.org/wiki/Helianthus_schweinitzii) (*Helianthus schweinitzii*) is a federally listed endangered species and found only in the South/North Carolina Piedmont. [Smooth purple coneflower](https://en.wikipedia.org/wiki/Echinacea_laevigata) (*Echinacea laevigata*) is another federally listed species that prefers open and sunny habitats.
 
 <figure>
-![Piedmont Ecoregion](https://upload.wikimedia.org/wikipedia/commons/0/07/Echinacea_laevigata.jpg)
+![Echinacea laevigata](https://upload.wikimedia.org/wikipedia/commons/0/07/Echinacea_laevigata.jpg)
  <figcaption>
   *Echinacea laevigata*
  </figcaption>
 </figure>
 
-<!--
-## Habitat Descriptions
-
-The links below provide official descriptions of several habitats that share 
-
-* [Piedmont Oak - Hickory Woodlands, Savannas, and Grasslands](https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctd9) (VA Natural Heritage Program)
-* [Southern Piedmont Glade and Barrens](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.723175/Southern_Piedmont_Glade_and_Barrens) (NatureServe)
-* [Prairies and Savannas (Upland)](https://www.naturalcommunitiesofgeorgia.com/prairies-and-savannas-upland.html)
--->
-   
 ## Finding prairies today
 
 While ample evidence shows prairie and savanna habitats were once more widespread in the Piedmont, where can be the prairies be found today? Besides a handful of prairie sites managed for conservation (see map below), many of the best prairie habitats are hidden in plain sight! The regular mowing and removal of woody species makes roadsides and other rights-of-way ideal [refugia](https://en.wikipedia.org/wiki/Refugium_(population_biology)) for prairie species in the Piedmont [@adams2012a-synthesis].
