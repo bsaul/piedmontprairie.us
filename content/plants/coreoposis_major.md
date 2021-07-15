@@ -16,4 +16,4 @@ images:
     desc: Inaturalist observations
 ---
 
-Greater tickseed (*Coreopsis major*) and many other members of the [Asteraceae](https://en.wikipedia.org/wiki/Asteraceae) are common Piedmont roadside inhabitants. This plant typically only reaches up to 3 feet in height. But with its striking, large yellow flowers, greater tickseed can stand out along roadside edges. Unlike other species like [Wild Quinine](parthenium_integrifolium), the native range of Greater tickseed only extends into Louisiana and not into the Mid-West plains.
+Greater tickseed (*Coreopsis major*) and many other members of the [Asteraceae](https://en.wikipedia.org/wiki/Asteraceae) are common Piedmont roadside inhabitants. This plant typically only reaches up to 3 feet in height. But with its striking, large yellow flowers, greater tickseed can stand out along roadside edges. Unlike species like [Wild Quinine](parthenium_integrifolium), the native range of Greater tickseed only extends into Louisiana and not into the Mid-West plains.
