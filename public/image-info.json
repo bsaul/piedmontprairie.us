@@ -128,6 +128,27 @@
     "source": "https://www.inaturalist.org"
   },
   {
+    "name" : "symphyotrichum-grandiflorum-flower",
+    "url" : "https://static.inaturalist.org/photos/100379942/large.jpg?1602762269",
+    "license": "All rights reserved",
+    "source": "iNaturalist",
+    "photographer": "Julie Tuttle"
+  },
+  {
+    "name" : "symphyotrichum-grandiflorum-habit",
+    "url" : "https://static.inaturalist.org/photos/100379915/large.jpg?1602762254",
+    "license": "All rights reserved",
+    "source": "iNaturalist",
+    "photographer": "Julie Tuttle"
+  },
+  {
+    "name" : "symphyotrichum-grandiflorum-leaves",
+    "url" : "https://static.inaturalist.org/photos/100379925/medium.jpg?1602762259",
+    "license": "All rights reserved",
+    "source": "iNaturalist",
+    "photographer": "Julie Tuttle"
+  },
+  {
     "name" : "little-bluestem-habitat",
     "file" : "fauquier-va-little-bluestem.jpg",
     "photographer" : "Bert Harris; Clifton Institute",

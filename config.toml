@@ -1,5 +1,5 @@
 theme = "plant-community"
-baseURL = "http://piedmontprairie.us"
+baseURL = "https://piedmontprairie.us"
 languageCode = "en-us"
 title = "Piedmont Prairie"
 
@@ -9,7 +9,13 @@ SectionPagesMenu = "main"
 Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = false
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$",  "\\.utf8\\.md$", "_cache$"]
+ignoreFiles = [ "\\.Rmd$"
+              , "\\.Rmarkdown$"
+              , "\\.knit\\.md$"
+              ,  "\\.utf8\\.md$"
+              , "_cache$"
+              , "(^|/)renv$", "renv\\.lock$"
+              ]
 
 [sitemap]
   changefreq = "monthly"
@@ -31,3 +37,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$",  "\\.utf8\\.md$", "_
   # featured_image = "/images/fauquier-va-little-bluestem.jpg"
   recent_posts_number = 2
   custom_css = ["css/custom.css"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
