@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Piedmont Prairie</title>
-    <link>https://piedmontprairie.us/tags/</link>
+    <link>http://piedmontprairie.us/tags/</link>
     <description>Recent content in Tags on Piedmont Prairie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 12:24:00 -0400</lastBuildDate><atom:link href="https://piedmontprairie.us/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 12:24:00 -0400</lastBuildDate><atom:link href="http://piedmontprairie.us/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>prairie-sites</title>
-      <link>https://piedmontprairie.us/tags/prairie-sites/</link>
+      <link>http://piedmontprairie.us/tags/prairie-sites/</link>
       <pubDate>Sun, 20 Jun 2021 12:24:00 -0400</pubDate>
       
-      <guid>https://piedmontprairie.us/tags/prairie-sites/</guid>
+      <guid>http://piedmontprairie.us/tags/prairie-sites/</guid>
       <description></description>
     </item>
     
     <item>
       <title>restoration</title>
-      <link>https://piedmontprairie.us/tags/restoration/</link>
+      <link>http://piedmontprairie.us/tags/restoration/</link>
       <pubDate>Sat, 19 Dec 2020 12:24:00 -0400</pubDate>
       
-      <guid>https://piedmontprairie.us/tags/restoration/</guid>
+      <guid>http://piedmontprairie.us/tags/restoration/</guid>
       <description></description>
     </item>
     
