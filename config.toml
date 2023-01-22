@@ -1,5 +1,5 @@
 theme = "plant-community"
-baseURL = "https://piedmontprairie.us"
+baseURL = "http://piedmontprairie.us"
 languageCode = "en-us"
 title = "Piedmont Prairie"
 
