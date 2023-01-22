@@ -3,5 +3,7 @@
 .RData
 .Ruserdata
 *Rproj
-*DS_Store
+.DS_Store
 docs*
+Thumbs.db
+.hugo_build.lock

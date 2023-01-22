@@ -18,7 +18,10 @@
           # pkgs.openssl
           pkgs.openssl.dev
           pkgs.libxml2.dev
-          pkgs.util-linux 
+          pkgs.util-linux
+
+          pkgs.hugo
+          pkgs.updog
 
           pkgs.rPackages.devtools
           pkgs.R
