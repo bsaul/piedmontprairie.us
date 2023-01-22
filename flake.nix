@@ -16,7 +16,10 @@
         buildInputs = [
           pkgs.bashInteractive 
           # pkgs.openssl
-          # pkgs.openssl.dev
+          pkgs.openssl.dev
+          pkgs.libxml2.dev
+          pkgs.util-linux 
+
           pkgs.rPackages.devtools
           pkgs.R
           pkgs.libpng
