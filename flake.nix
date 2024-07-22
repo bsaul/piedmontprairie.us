@@ -48,6 +48,7 @@
           pkgs.updog
 
           pkgs.rPackages.blogdown
+          pkgs.rPackages.bibtex
           pkgs.rPackages.devtools
           pkgs.R
 
