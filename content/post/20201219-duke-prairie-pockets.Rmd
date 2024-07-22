@@ -2,16 +2,16 @@
 date: 2020-12-19T12:24:00-04:00
 author: Bradley Saul
 description: "Duke Gardens experiments with 'Prairie pockets'"
-# featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["restoration", "prairie-sites"]
 title: "Prairie Pockets"
 ---
 
-```{r, echo = FALSE}
-blogdown::shortcode("tweet", "1339252925063839744")
-```
-
-Following the success of Sarah P. Duke Gardens' [Piedmont Prairie](https://today.duke.edu/2015/06/prairie) in the [Blomquist Garden](https://gardens.duke.edu/about/blomquist-garden), the horticulture staff is experimenting with "prairie pockets" in parking lot medians. The results look great so far!
+Following the success of Sarah P. Duke Gardens' 
+[Piedmont Prairie](https://today.duke.edu/2015/06/prairie)
+in the [Blomquist Garden](https://gardens.duke.edu/about/blomquist-garden), 
+the horticulture staff is experimenting
+with "prairie pockets" in parking lot medians. 
+The results look great so far!
 
 ```{r, echo = FALSE}
 blogdown::shortcode("youtube", "Bf3-CvWh8ow")

@@ -8,3 +8,4 @@ docs*
 Thumbs.db
 .hugo_build.lock
 **result
+**public
